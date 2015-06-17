@@ -1,3 +1,5 @@
+$ = jQuery
+
 # extract i18n keys from a textnode (e.g. "translated text--en.translation.key--")
 window.I18nViz.extractI18nKeysFromText = (text) ->
   keys = text.match(window.I18nViz.global_regex)

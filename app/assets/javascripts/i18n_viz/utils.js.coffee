@@ -1,3 +1,5 @@
+$ = jQuery
+
 # get all the textnode children for an element
 # edited
 $.fn.textNodes = () ->

@@ -1,3 +1,5 @@
+$ = jQuery
+
 $(document).ready () ->
   # append i18n tooltip
   $("body")
